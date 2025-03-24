@@ -1,0 +1,6 @@
+# Path to your dataset
+train: "D:/UPC/Advanced Deep Learning/Assignment_2_project/dataset/images/train"  
+val: "D:/UPC/Advanced Deep Learning/Assignment_2_project/dataset/images/valid"  
+
+nc: 3  
+names: ["helmet", "person", "head"]
